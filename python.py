@@ -3,7 +3,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 #---------------------------------------
-#Ruta de pagina index layauts
+#Ruta de pagina index
 #---------------------------------------
 @app.route('/')
 def index():
