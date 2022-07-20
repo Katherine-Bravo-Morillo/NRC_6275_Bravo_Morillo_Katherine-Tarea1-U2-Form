@@ -1,0 +1,18 @@
+
+body {
+
+    font-family: 'Lato', sans-serif;
+}
+
+a{
+    color: #00B16A;
+}
+
+#captcha {
+    border-top: 5px solid #F64747;
+    background-color: #FFF;
+    height: 100vh;
+    min-height: 960px;
+    max-width: 980px;
+    margin: 0 auto;
+}
